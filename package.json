@@ -1,0 +1,33 @@
+{
+  "name": "GoD",
+  "version": "1.0.0",
+  "description": "My Hard Work",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Life",
+  "license": "MIT",
+  "dependencies": {
+    "dblapi.js": "^2.4.0",
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "express-asset-handler": "^0.0.3",
+    "express-developer": "^1.0.0",
+    "express-meta-validator": "^1.2.0",
+    "fs": "^0.0.2",
+    "ms": "^2.1.2",
+    "npmtest-sql-template-strings": "^2017.4.27",
+    "objio-sqlite-table": "^0.0.41",
+    "shieldsquare-express": "^5.1.1",
+    "snekfetch": "^4.0.4",
+    "sqlite": "^4.0.7",
+    "sqlite3": "^4.1.1",
+    "superagent": "^5.2.2",
+    "tibber-express-utils": "^1.7.0"
+  },
+  "engines": {
+    "node": "11.x"
+  }
+}
